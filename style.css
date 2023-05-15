@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+h2 {
+    font-size: 40px;
+    color: orange;
+}
+
+.button {
+    padding: 10px;
+    background-color: tomato;
+    border-radius: 10px;
+    color: white;
+}
+
+.half-width img {
+    width: 500px;
+}
+
+.flexible-container {
+    display: flex;
+    margin: 50px;
+}
