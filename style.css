@@ -31,6 +31,27 @@ h2 {
 
 }
 
+.bg {
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 26px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.goals-bg {
+    background: #FFF4D6;
+    border-radius: 26px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.mission-bg {
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+    padding: 10px;
+    margin: 20px;
+}
+
 .flexible-container {
     display: flex;
     margin: 50px;
@@ -39,6 +60,7 @@ h2 {
 .my-mission {
     text-align: center;
     font-family: cursive;
+
 }
 
 .orange {
@@ -70,4 +92,8 @@ footer .green {
 
 footer p {
     color: white;
+}
+
+.hb {
+    text-align: center;
 }
